@@ -557,7 +557,7 @@ table, td {
 }
 
 .card2:hover .circle:before {
-  background: #FFEC56;
+  background: #6FE4B1;
   clip-path: circle(200px at center);
 }
 
@@ -624,7 +624,7 @@ table, td {
 }
 
 .card3:hover .circle:before {
-  background: #FFEC56;
+  background: #81B1DF;
   clip-path: circle(200px at center);
 }
 
@@ -691,7 +691,7 @@ table, td {
 }
 
 .card4:hover .circle:before {
-  background: #FFEC56;
+  background: #FFB3BA;
   clip-path: circle(200px at center);
 }
 
