@@ -500,7 +500,7 @@ table, td {
 }
 
 .card1:hover img {
-  top: -25%;
+  top: -30%;
 }
 
 .card1 .content {
@@ -571,12 +571,12 @@ table, td {
 }
 
 .card2:hover img {
-  top: -25%;
+  top: -20%;
 }
 
 .card2 .content {
   position: relative;
-  width: 50%;
+  width: 80%;
   padding: 120px 10px 15px 15px;
   transition: 0.5s;
   opacity: 0;
@@ -643,7 +643,7 @@ table, td {
 
 .card3 .content {
   position: relative;
-  width: 50%;
+  width: 80%;
   padding: 120px 10px 15px 15px;
   transition: 0.5s;
   opacity: 0;
@@ -705,12 +705,12 @@ table, td {
 }
 
 .card4:hover img {
-  top: -25%;
+  top: -30%;
 }
 
 .card4 .content {
   position: relative;
-  width: 50%;
+  width: 80%;
   padding: 120px 10px 15px 15px;
   transition: 0.5s;
   opacity: 0;
